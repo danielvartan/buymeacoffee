@@ -6,6 +6,6 @@ Working with science in Brazil is a daily challenge. There are few funding oppor
 
 If my work helps you in any way or you simply want to support the work that I've been doing, please consider donating or even creating a membership subscription (if you can!). Your support will help me with my scientific pursuit and with the maintenance of the products I developed.
 
-To make a donation, click on the buymeacoffee.com badge above.
+To make a donation, click on the buymeacoffee.com button above.
 
 __Please be careful and donate just if it is within your possibilities, because there is no refund system. And remember that you don't need to donate, it is just a free choice for you. Thank you!__
