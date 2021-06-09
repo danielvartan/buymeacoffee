@@ -8,4 +8,4 @@ If my work helps you in any way or you simply want to support the work that I've
 
 To make a donation, click on the buymeacoffee.com button above.
 
-__Please be careful and donate just if it is within your possibilities, because there is no refund system. And remember that you don't need to donate, it is just a free choice for you. Thank you!__
+Thank you!
