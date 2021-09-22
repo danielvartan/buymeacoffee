@@ -1,4 +1,4 @@
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/danielvartan)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/danielvartan)
 
 Hello 👋 !
 
@@ -6,6 +6,6 @@ Working with science in Brazil is a daily challenge. There are few funding oppor
 
 If my work helps you in any way or you simply want to support the work that I've been doing, please consider donating or even creating a membership subscription (if you can!). Your support will help me with my scientific pursuit and with the maintenance of the products I developed.
 
-To make a donation, click on the buymeacoffee.com button above.
+To make a donation click on the [Ko-fi](https://ko-fi.com/danielvartan) button above.
 
 Thank you!
